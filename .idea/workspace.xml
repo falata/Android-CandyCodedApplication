@@ -10,11 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,21 +185,21 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="802" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1601964994606" />
-    <state width="1442" height="206" key="GridCell.Tab.0.bottom" timestamp="1601966065689">
+    <state width="1489" height="221" key="GridCell.Tab.0.bottom" timestamp="1601968154106">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1442" height="206" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601966065689" />
-    <state width="1442" height="206" key="GridCell.Tab.0.center" timestamp="1601966065689">
+    <state width="1489" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601968154106" />
+    <state width="1489" height="221" key="GridCell.Tab.0.center" timestamp="1601968154106">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1442" height="206" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601966065689" />
-    <state width="1442" height="206" key="GridCell.Tab.0.left" timestamp="1601966065689">
+    <state width="1489" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601968154106" />
+    <state width="1489" height="221" key="GridCell.Tab.0.left" timestamp="1601968154106">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1442" height="206" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601966065689" />
-    <state width="1442" height="206" key="GridCell.Tab.0.right" timestamp="1601966065689">
+    <state width="1489" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601968154106" />
+    <state width="1489" height="221" key="GridCell.Tab.0.right" timestamp="1601968154106">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1442" height="206" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601966065689" />
+    <state width="1489" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601968154106" />
   </component>
 </project>
